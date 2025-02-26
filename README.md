@@ -1,7 +1,6 @@
 
 # 👋 **Hey, I'm Akanksha Pandey!**
 ## 🔬 **Bioinformatics | Machine Learning**  
-
 ### 🧬 What I Do:  
 💻 **Analyze** complex biological datasets and extract insights that matter  
 🧠 **Develop** machine learning models for genomic research & biotherapeutics  
