@@ -1,4 +1,3 @@
-
 # 👋 **Hey, I'm Akanksha Pandey!**
 ## 🔬 **Bioinformatics | Machine Learning**  
 ### 🧬 What I Do:  
