@@ -1,6 +1,6 @@
 
-### 👋 Hey there, I'm Akanksha Pandey!
-### 🔬 **Bioinformatics | Machine Learning**  
+# 👋 **Hey, I'm Akanksha Pandey!**
+## 🔬 **Bioinformatics | Machine Learning**  
 
 ### 🧬 What I Do:  
 💻 **Analyze** complex biological datasets and extract insights that matter  
@@ -10,6 +10,6 @@
 ### 🚀 Let’s Collaborate!  
 I’m always up for exciting projects in **bioinformatics, ML, and computational biology**.  
 
-📫 **Find me here:** [LinkedIn](https://linkedin.com/in/pandey-aka) | [GitHub](https://github.com/akankshapandey00)  
+📫 **Find me here:** https://linkedin.com/in/pandey-aka | https://github.com/akankshapandey00
 
 ---
