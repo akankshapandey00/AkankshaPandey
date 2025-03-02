@@ -5,4 +5,4 @@
 🧠 **Develop** machine learning models for genomic research & biotherapeutics  
 🛠 **Leverage** cutting-edge bioinformatics tools to solve real-world problems   
 
-📫 **Find me here:** https://linkedin.com/in/pandey-aka | https://github.com/akankshapandey00
+📫 **Find me here:** https://linkedin.com/in/pandey-aka | pandey.aka@northeastern.edu
